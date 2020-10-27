@@ -8,9 +8,9 @@ import Instagram from './screens/in.js'
 export default class App extends React.Component {
   render(){
   return (
-    <View style={styles.container}>
+    
       <AppContainer></AppContainer>     
-    </View>
+    
   );
 }
 }
